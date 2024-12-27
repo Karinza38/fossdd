@@ -1,4 +1,4 @@
-### => Please just use [Codeberg](https://codeberg.org) instead
+ => Please just use [Codeberg](https://codeberg.org) instead
 
 Don't waste your time developing free & open-source software on a software platform that is
 not FOSS itself!
